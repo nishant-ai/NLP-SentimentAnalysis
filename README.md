@@ -1,7 +1,7 @@
 # Coursera Natural Language Processing Specialization
 
-This repository contains material related to Coursera [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing). It consists of a bunch of Jupyter notebooks for each weekly assignment.
-
+This repository contains material related to Coursera [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing). Consisting of a number of Jupyter Notebooks subgrouped into directories **Assignment** and **Class-Notes**
+ 
 ## Content
 
 ### Natural Language Processing with Classification and Vector Spaces
