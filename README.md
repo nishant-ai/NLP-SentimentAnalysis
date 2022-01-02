@@ -7,7 +7,6 @@ This repository contains material related to Coursera [Natural Language Processi
 ### Natural Language Processing with Classification and Vector Spaces
 
 * [Sentiment Analysis with Logistic Regression](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%201): Learn to extract features from text into numerical vectors, then build a binary classifier for tweets using logistic regression.
-
 - [Assignment](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%201/Asssignment)
 - [Class-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%201/Lectures)
 
