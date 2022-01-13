@@ -10,7 +10,7 @@ This repository contains material related to Coursera [Natural Language Processi
 - [Assignment](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%201/Asssignment)
 - [Class-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%201/Lectures)
 
-[Sentiment Analysis with Naïve Bayes](#): Learn the theory behind Bayes' rule for conditional probabilities, then apply it toward building a Naive Bayes tweet classifier.
+[Sentiment Analysis with Naïve Bayes](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%202): Learn the theory behind Bayes' rule for conditional probabilities, then apply it toward building a Naive Bayes tweet classifier.
 - [Assignment](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%202/Assignments)
 - [Class-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%202/Lectures)
 
