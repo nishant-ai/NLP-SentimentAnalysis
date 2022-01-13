@@ -11,6 +11,8 @@ This repository contains material related to Coursera [Natural Language Processi
 - [Class-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%201/Lectures)
 
 [Sentiment Analysis with Naïve Bayes](#): Learn the theory behind Bayes' rule for conditional probabilities, then apply it toward building a Naive Bayes tweet classifier.
+- [Assignment](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%202/Assignments)
+- [Class-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%202/Lectures)
 
 [Vector Space Models](#): Vector space models capture semantic meaning and relationships between words. Learn how to create word vectors that capture dependencies between words, then visualize their relationships in two dimensions using PCA.
 
