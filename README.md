@@ -1,6 +1,3 @@
-![deeplearningai](https://www.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png)
-![courseraorg](https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg)
-
 # Coursera Natural Language Processing Specialization
 
 This repository contains material related to Coursera [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing). Consisting of a number of Jupyter Notebooks subgrouped into directories **Assignment** and **Class-Notes**
@@ -28,3 +25,7 @@ This repository contains material related to Coursera [Natural Language Processi
 - [Assignment](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%204/Assignments)
 - [Programming-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%204/Lectures)
 - [Theory-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/blob/master/Week%204/Machine%20Translation%20Notes.pdf)
+
+
+![deeplearningai](https://www.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png)
+![courseraorg](https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg)
