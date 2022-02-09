@@ -22,3 +22,6 @@ This repository contains material related to Coursera [Natural Language Processi
 - [Theory-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/blob/master/Week%203/Vector%20Space%20Models%20Self%20Notes.pdf)
 
 [Machine Translation and Document Search](#): Learn to transform word vectors and assign them to subsets using locality sensitive hashing, in order to perform machine translation and document search.
+- [Assignment](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%204/Assignments)
+- [Programming-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/tree/master/Week%204/Lectures)
+- [Theory-Notes](https://github.com/nishant-ai/NLP-SentimentAnalysis/blob/master/Week%204/Machine%20Translation%20Notes.pdf)
